@@ -1,3 +1,4 @@
+//https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/
 /*
 0 1 4 9 16 25 36
 */
